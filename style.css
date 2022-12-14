@@ -75,7 +75,7 @@ li {
   color: rgba(226, 222, 222, 0.623);
   font-size: 25px;
   letter-spacing: 3px;
-  margin-left: 470px;
+  list-style-type:none;
 }
 
 a {
